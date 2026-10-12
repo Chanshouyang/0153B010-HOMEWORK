@@ -13,7 +13,7 @@
 
 📷 個人照片：
 
-<img src="image/photo_1.jpg" alt="個人照片" width="300"/>
+![image](https://github.com/Chanshouyang/0153B010-HOMEWORK/blob/main/Code_Generated_Image.jpg)
 
 ---
 
